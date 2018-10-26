@@ -2,7 +2,7 @@ package thread;
 
 /*******************************************************
  * @author SAGAR PAUL (paulsagar1a)
- * @category Array
+ * @category Thread
  *******************************************************/
 
 /*Inter-thread communication or Co-operation is basically 

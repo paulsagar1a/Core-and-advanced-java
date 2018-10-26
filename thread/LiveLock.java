@@ -2,7 +2,7 @@ package thread;
 
 /*******************************************************
  * @author SAGAR PAUL (paulsagar1a)
- * @category Array
+ * @category Thread
  *******************************************************/
 /*Live lock is a situation where two threads are doing their jobs but not able to progress*/
 /*Imagine a situation where two threads are coming to through a narrow lane in the opposite 

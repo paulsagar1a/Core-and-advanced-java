@@ -2,7 +2,7 @@ package thread;
 
 /*******************************************************
  * @author SAGAR PAUL (paulsagar1a)
- * @category Array
+ * @category Thread
  *******************************************************/
 
 /* When two threads capture locks of two different resources 
